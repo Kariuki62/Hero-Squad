@@ -1,7 +1,7 @@
 # Hero Squad
 ### Author: Kelvin Kariuki
 
-This is a program that helps a user Encrypt an Decrypt a program.
+This is prgram that helps a user to create both squads and heroes more to that merge them together. 
 
 ## Getting Started
 Have a review of my Github account and visit the Repository.
@@ -33,9 +33,9 @@ The applications allow users to do the following:
 
 ## Built With
 
--JAVA.
--HTML.
--CSS.
+-JAVA
+-HTML
+-CSS
 
 ## Contributing
 
