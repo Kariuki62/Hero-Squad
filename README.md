@@ -25,18 +25,17 @@ If you are not conversant on the usage of git you can visit https://github.com a
 ## User Requirements
 
 The applications allow users to do the following:
-1.Add a new squad.
-2.Add a new hero in the squad.
-3.Add a squad name , size and a cause.
-4.View a list of current squads.
-3.View a list of heroes in a squad.
+- Add a new squad.
+- Add a new hero in the squad.
+- Add a squad name , size and a cause.
+- View a list of current squads.
+- View a list of heroes in a squad.
 
 ## Built With
+
 -JAVA.
 -HTML.
--CSS
--HANDLEBARS
--HEROKU
+-CSS.
 
 ## Contributing
 
