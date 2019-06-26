@@ -1,7 +1,6 @@
 # Hero Squad
 ### Author: Kelvin Kariuki
 
-This is a program that helps a user Encrypt an Decrypt a program.
 
 ## Getting Started
 Have a review of my Github account and visit the Repository.
@@ -32,11 +31,10 @@ The applications allow users to do the following:
 3.View a list of heroes in a squad.
 
 ## Built With
+
 -JAVA.
 -HTML.
 -CSS
--HANDLEBARS
--HEROKU
 
 ## Contributing
 
