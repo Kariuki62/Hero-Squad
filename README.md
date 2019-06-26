@@ -1,6 +1,7 @@
 # Hero Squad
 ### Author: Kelvin Kariuki
-
+## Description
+This is a project that helps one add and remove heroes from their team.
 
 ## Getting Started
 Have a review of my Github account and visit the Repository.
